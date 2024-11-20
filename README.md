@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # **Sistema de Comércio de Automóveis**
 
@@ -136,3 +137,6 @@ Se quiser contribuir para o projeto:
 3. Envie um pull request com suas alterações.
 
 
+=======
+# projeto-integrado-comercio-automoveis
+>>>>>>> 087d7093ab1c877e839b2b61b060c07b3d784267
