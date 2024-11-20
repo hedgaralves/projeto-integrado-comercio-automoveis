@@ -1,0 +1,5 @@
+INSTALLED_APPS = [
+    # ...
+    'comercio',
+    'rest_framework',  # Para criar APIs
+]
